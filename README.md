@@ -1,5 +1,5 @@
 # time-fighter
 
-This repository contains code for Time Fighter android application started in February, 2019.
+This repository contains code for Time Fighter android application written in Kotlin.
 
-This project is for practice purposes only. If interested you can fork or pull the code.
+I started this project in February, 2019 to learn building Android Applications. If interested you can fork or pull the code.
